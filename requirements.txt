@@ -1,0 +1,8 @@
+fastapi 
+transformers
+uvicorn 
+torch 
+torchvision 
+pillow 
+requests
+cryptography
